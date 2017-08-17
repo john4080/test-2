@@ -1,2 +1,7 @@
 # test-2
-aprendizaje 2
+
+
+RANDOM
+321
+654
+987
